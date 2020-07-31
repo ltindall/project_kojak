@@ -1,3 +1,10 @@
+# Instructions
+```
+pip install -r requirements.txt
+python real_time_gesture_detection.py
+```
+
+
 ### Training a Neural Network to Detect Gestures with OpenCV in Python
 
 #### How I built Microsoft Kinect functionality with just a webcam and a dream.
